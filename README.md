@@ -14,5 +14,16 @@ This project demonstrates the use of **Hibernate**, a popular ORM framework, to 
 - **JUnit** for testing  
 
 ---
+## ⚙️ Setup Instructions  
 
-## 📂 Project Structure  
+### Prerequisites  
+1. Install **Java JDK 8+**.  
+2. Install **MySQL** and create a database (e.g., `hibernate_demo`).  
+3. Install an IDE like **Eclipse** or **IntelliJ IDEA**.  
+
+### Steps to Run  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/yourusername/Java_Hibernate_Project.git
+   cd Java_Hibernate_Project
+   
